@@ -36,7 +36,7 @@ The system encodes movie plots into embeddings and retrieves the most semantical
 ## Clone the Repository
 ```bash
 git clone https://github.com/lumani22101/movie-search-semantic
-cd movie-search-assignment
+cd movie-search-assignment/movie-search-assignment-main
 ```
 
 ## Create and Activate Virtual Environment
